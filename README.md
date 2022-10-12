@@ -2,6 +2,8 @@
 
 This is a tutorial for analyzing single-cell imaging proteomic data based on the analysis available finalized at this location.
 
+The main aim of the tutorial is to demonstrate and guide the usage of imaging proteomic data, including filtering cells, performing batch normalization, and calculating a pseudotime from the expression of markers for the cell cycle. Finally, the students will work on displaying the expression of an important cell cycle regulated protein over the cell cycle.
+
 https://github.com/CellProfiling/SingleCellProteogenomics
 
 ## Structure
